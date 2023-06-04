@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # login_alghobast
 
 A new Flutter project.
@@ -15,7 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
 # login-algobast
 A Login App using flutter bloc
->>>>>>> 49458033556d83ecfb1505b832448603e2b03d1e
